@@ -82,7 +82,4 @@ router.get("/filtro/:palavra", async(req,res)=> {
         }
 });
 
-
-
-
 module.exports = router;
